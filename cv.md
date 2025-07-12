@@ -2,15 +2,15 @@
 ## Yuriy Kirsanov
 
 ### **Contact:**
--**Tel/WhatsApp:** +77781136476
--**Discord/Telegram:** yurka_yaponchik
--**E-mail:** yurkayaponchik@gmail.com
++**Tel/WhatsApp:** +77781136476<br>
++**Discord/Telegram:** yurka_yaponchik<br>
++**E-mail:** yurkayaponchik@gmail.com
 
 ### **Skills:**
--HTML&CSS
--Figma
--Photoshop
++HTML&CSS<br>
++Figma<br>
++Photoshop
 
 ### **Languages:**
--Russian Native
--English A1
++Russian Native<br>
++English A1
