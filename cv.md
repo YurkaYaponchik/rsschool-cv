@@ -1,5 +1,3 @@
----
-
 # Resume
 
 ---
@@ -7,15 +5,15 @@
 ## Yuriy Kirsanov
 
 ### **Contact:**
-+ **Tel/WhatsApp:** +77781136476<br>
-+ **Discord/Telegram:** yurka_yaponchik<br>
++ **Tel/WhatsApp:** +77781136476
++ **Discord/Telegram:** yurka_yaponchik
 + **E-mail:** yurkayaponchik@gmail.com
 
 ### **Skills:**
-+ HTML&CSS<br>
-+ Figma<br>
++ HTML&CSS
++ Figma
 + Photoshop
 
 ### **Languages:**
-+ Russian Native<br>
++ Russian Native
 + English A1
