@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container {
+  width: 797px;
+  height: 3000px;
+  border: solid 3px white;
+  border-radius: 10px;
+}
+
+.footer {
+  width: 797px;
+  height: 50px;
+  border: solid 3px white;
+  border-radius: 10px;
+}
