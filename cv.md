@@ -1,8 +1,6 @@
 # Resume
----
 ## Yuriy Kirsanov
-
-### **Contact:**
+### **Contacts:**
 + **Tel/WhatsApp:** +77781136476
 + **Discord/Telegram:** yurka_yaponchik
 + **E-mail:** yurkayaponchik@gmail.com
@@ -30,6 +28,13 @@ const moveSnake = (event) => {
     }
 }
 ```
+
+### **Projcts:**
++ [Snake-Game](https://yurkayaponchik.github.io/Snake-Game/)
++ [rsschool-cv](https://yurkayaponchik.github.io/rsschool-cv/)
+
+### **Education:**
++ Graduated from the Karaganda Higher Polytechnic College, specializing in Software Engineer.
 
 ### **Languages:**
 + Russian Native
