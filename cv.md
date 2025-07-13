@@ -1,4 +1,6 @@
 # Resume
+
+![Avatar "Ying-Yang"](/image/Yin-Yang.png "Avatar "Ying-Yang"")
 ## Yuriy Kirsanov
 ### **Contacts:**
 + **Tel/WhatsApp:** +77781136476
@@ -29,7 +31,7 @@ const moveSnake = (event) => {
 }
 ```
 
-### **Projcts:**
+### **Projects:**
 + [Snake-Game](https://yurkayaponchik.github.io/Snake-Game/)
 + [rsschool-cv](https://yurkayaponchik.github.io/rsschool-cv/)
 
