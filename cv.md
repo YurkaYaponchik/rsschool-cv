@@ -1,6 +1,6 @@
 # Resume
 
-![Avatar "Ying-Yang"](/image/Yin-Yang.png "Avatar "Ying-Yang"")
+![Avatar "Ying-Yang"](image/Yin-Yang.png "Avatar "Ying-Yang"")
 ## Yuriy Kirsanov
 ### **Contacts:**
 + **Tel/WhatsApp:** +77781136476
