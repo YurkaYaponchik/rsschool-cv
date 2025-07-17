@@ -1,9 +1,8 @@
 # Resume
 
-![Avatar "Ying-Yang"](assets/image/Yin-Yang.png "Avatar "Ying-Yang"")
+![Avatar "Ying-Yang"](assets/images/AvatarYin-Yang.png "Avatar "Ying-Yang"")
 ## Yuriy Kirsanov
 ### **Contacts:**
-+ **Tel/WhatsApp:** +77781136476
 + **Discord/Telegram:** yurka_yaponchik
 + **E-mail:** yurkayaponchik@gmail.com
 
@@ -40,4 +39,4 @@ const moveSnake = (event) => {
 
 ### **Languages:**
 + Russian Native
-+ English A1
++ English A1 - Beginner

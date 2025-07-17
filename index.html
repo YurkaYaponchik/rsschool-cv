@@ -4,19 +4,120 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>rsschool-cv</title>
-  <link rel="stylesheet" href="assets/style/main.css">
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="shortcut icon" href="assets/icons/FaviconAvatarYin-Yang.ico" type="image/x-icon">
 </head>
 <body>
 
-  <div class="container">
-    <header class="header">
-    </header>
+  <header class="header">
+    <a href="#" class="logo">Resume</a>
+    <ul class="nav">
+      <li class="nav-item"><a href="#contacts-title" class="contacts-nav nav link">Contacts</a></li>
+      <li class="nav-item"><a href="#skills-title" class="skills-nav nav link">Skills</a></li>
+      <li class="nav-item"><a href="#code-example-title" class="code-example-nav nav link">Code example</a></li>
+      <li class="nav-item"><a href="#projects-title" class="projects-nav nav link">Projects</a></li>
+      <li class="nav-item"><a href="#education-title" class="education-nav nav link">Education</a></li>
+      <li class="nav-item"><a href="#languages-title" class="languages-nav nav link">Languages</a></li>
+    </ul>
+  </header>
 
-    <main class="main">
-    </main>
-  </div>
+  <main class="main">
+    <div class="profile">
+      <div class="profile-title-section">
+        <h1 class="name profile-title">Yuriy Kirsanov</h1>
+        <h2 class="speciality profile-title">Junior Front-End Developer</h2>
+      </div>
+      <img src="./assets/images/AvatarYin-Yang.png" alt="Avatar Yin-Yang" class="avatar">
+    </div>
+    <div class="main-container">
+      <div class="contacts-section section">
+        <div class="container">
+          <h3 id="contacts-title" class="contacts-title">Contacts:</h3>
+          <ul class="contacts">
+            <li class="contacts-item item"><img src="./assets/svg/discord.svg" alt="" class="ico"><b>Discord:</b><a href="http://discordapp.com/users/411777570472984577" class="discord link">yurka_yaponchik</a></li>
+            <li class="contacts-item item"><img src="./assets/svg/telegram.svg" alt="" class="ico"><b>Telegram:</b><a href="https://t.me/yurka_yaponchik" class="telegram link">yurka_yaponchik</a></li>
+            <li class="contacts-item item"><img src="./assets/svg/mail.svg" alt="" class="ico"><b>E-mail:</b><a href="mailto:yurkayaponchik@gmail.com" class="email link">yurkayaponchik@gmail.com</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="skills-section section">
+        <div class="container">
+          <h3 id="skills-title" class="skills-title">Skills:</h3>
+          <ul class="skills">
+            <li class="skills-item list-style item">HTML&CSS</li>
+            <li class="skills-item list-style item">Figma</li>
+            <li class="skills-item list-style item">Photoshop</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="code-example-section section">
+        <div class="container">
+          <h3 id="code-example-title" class="code-example-title">Code example:</h3>
+          <pre class="code-example-container"><code class="code-example">
+const moveSnake = (event) => {
+  if(event.keyCode === 37 && velocityY != 1 
+  || event.keyCode === 65 && velocityY != 1) { // Left
+    velocityX = 0;
+    velocityY = -1;
+  } else if(event.keyCode === 39 && velocityY != -1 
+  || event.keyCode === 68 && velocityY != -1) { // Right
+    velocityX = 0;
+    velocityY = +1;
+  } else if(event.keyCode === 38 && velocityX != 1 
+  || event.keyCode === 87 && velocityX != 1) { // Up
+    velocityX = -1;
+    velocityY = 0;
+  } else if(event.keyCode === 40 && velocityX != -1 
+  || event.keyCode === 83 && velocityX != -1) { // Down
+    velocityX = +1;
+    velocityY = 0;
+  }
+}
+          </code></pre>
+        </div>
+      </div>
+
+      <div class="projects-section section">
+        <div class="container">
+          <h3 id="projects-title" class="projects-title">Projects:</h3>
+          <ul class="projects">
+            <li class="projects-item list-style item"><a href="https://yurkayaponchik.github.io/Snake-Game/" class="gnake-game link">Snake-Game</a></li>
+            <li class="projects-item list-style item"><a href="https://yurkayaponchik.github.io/rsschool-cv/" class="rsschool-cv link">rsschool-cv</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="education-section section">
+        <div class="container">
+          <h3 id="education-title" class="education-title">Education:</h3>
+          <ul class="education">
+            <li class="education-item list-style item">Graduated from the Karaganda Higher Polytechnic College, specializing in Software Engineer.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="languages-section section">
+        <div class="container">
+          <h3 id="languages-title" class="languages-title">Languages:</h3>
+          <ul class="languages">
+            <li class="languages-item list-style item">Russian Native</li>
+            <li class="languages-item list-style item">English A1 - Beginner</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
 
   <footer class="footer">
+    <div>
+      © 2025
+      <a href="https://github.com/YurkaYaponchik" class="github link">YurkaYaponchik</a>
+    </div>
+    <a href="https://rs.school/courses/javascript-ru" class="rss link"><img src="./assets/images/rs-school-logo.png" alt="rss-logo" class="rss-logo"></a>
   </footer>
   
 </body>
